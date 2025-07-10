@@ -1,0 +1,135 @@
+{
+  "version": "3.98.34380.0",
+  "course_id": "6c7PB8Bw4bZ",
+  "title": "Phishing demo 5.22.25",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Multiple corrects"
+    },
+    {
+      "title": "Complete"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6aThltw0HLe",
+      "title": "Question 1",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "67wtsJD3YT9",
+      "title": "Q1 Review",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6Ce338JFxtC",
+      "title": "Question 2",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "64rrXo7pALf",
+      "title": "Question 3",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5r1akpRdl15",
+      "title": "Question 9",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6c95YFAUxMb",
+      "title": "Q9 Review",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5pB54Cunlug",
+      "title": "Question 10",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6c1uLGzDfVM",
+      "title": "Q10 Review",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "5YfFvMB9aL5",
+      "title": "Q3 Review",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "66ySoqNRLHB",
+      "title": "Question 4",
+      "scene_index": "1.10"
+    },
+    {
+      "id": "6WuXcfb5kfc",
+      "title": "Q4 Review",
+      "scene_index": "1.11"
+    },
+    {
+      "id": "5nvDNzzW9I6",
+      "title": "Question 5",
+      "scene_index": "1.12"
+    },
+    {
+      "id": "6ReOVeAkQQf",
+      "title": "Q5 Review",
+      "scene_index": "1.13"
+    },
+    {
+      "id": "6JAlHrP9fWz",
+      "title": "Question 8",
+      "scene_index": "1.14"
+    },
+    {
+      "id": "6gnw7fE6T0C",
+      "title": "Q8 Review",
+      "scene_index": "1.15"
+    },
+    {
+      "id": "5kUAjH5XyL1",
+      "title": "Question 6",
+      "scene_index": "1.16"
+    },
+    {
+      "id": "5iR2mJA2uaQ",
+      "title": "Q6 Review",
+      "scene_index": "1.17"
+    },
+    {
+      "id": "6SwgcJ9l236",
+      "title": "Question 7",
+      "scene_index": "1.18"
+    },
+    {
+      "id": "679d3QKTT0X",
+      "title": "Q7 Review",
+      "scene_index": "1.19"
+    },
+    {
+      "id": "6Fzopg6i59w",
+      "title": "Q2 Review",
+      "scene_index": "1.20"
+    },
+    {
+      "id": "62a5qTC5Dsp",
+      "title": "Results",
+      "scene_index": "1.21"
+    },
+    {
+      "id": "6aG8GIhBYJa",
+      "title": "Untitled Slide",
+      "scene_index": "2.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 611
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
